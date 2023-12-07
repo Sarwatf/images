@@ -1,0 +1,55 @@
+/* SIZE PF IMAGES */
+/* img
+{
+width: 250px;
+height: 250px;
+margin: 10px;
+} */
+/* ALIGN IMAGES  */
+/* img{
+    margin-left: 200px;
+} */
+/* img{
+    float: right;
+} */
+/* CENTARING IMAGE */
+/* img{
+    display: block;
+    margin: auto;
+} */
+/* BACKGROUND IMAGE */
+/* body{
+    background-image: url(./sceinery.jpg);
+    background-repeat: no-repeat ;
+background-attachment: fixed;
+/* background-position: center; */
+/* GRADEINTS */
+/* LENIAR GRADIENTS */
+/* body {
+    background-image: linear-gradient (red, yellow);
+    background-repeat: no-repeat;
+   background-size: cover      ;
+  
+  } */
+  /* body{
+    
+        background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+      
+      
+  } */
+  /* RADIAL GRADIENTS */
+  /* body{
+    background-image: radial-gradient(red,blue,yellow)
+    ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 750px;
+    width: 750px;
+  } */
+  /* CONIC GRADIENTS */
+  body{
+    background-image: conic-gradient(red, yellow, green);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 00PX;
+  }
